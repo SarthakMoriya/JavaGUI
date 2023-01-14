@@ -3,6 +3,7 @@ import java.awt.*;
 
 public class GUI_Basics {
     public static void main(String[] args) {
+        /*
         //JFrame = A GUI window to add components
 
         //Creates  instance of JFrame CLass
@@ -20,10 +21,17 @@ public class GUI_Basics {
         ImageIcon image=new ImageIcon("logo.png");
         frame.setIconImage(image.getImage()); // sets logo of our frame
 
-        frame.getContentPane().setBackground(Color.CYAN); //Sets background Color
+//        frame.getContentPane().setBackground(Color.CYAN); //Sets background Color
+        frame.getContentPane().setBackground(new Color(0,0,0)); //Sets background Color
+
+
+         */
+
+        MyFrame myFrame=new MyFrame();
     }
 }
 
 //        By Default closes the frame but program still runs
 //        frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);//Does nothing on clicking Cross Button
 //        frame.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);//Hides Frame
+//        frame.getContentPane().setBackground(new Color(0,0,0); //Sets background Color
