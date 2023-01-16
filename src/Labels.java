@@ -5,7 +5,7 @@ import java.awt.*;
 public class Labels {
     public static void main(String[] args) {
         //JLabel = a GUI display area for a string of text , an image ,or both
-        ImageIcon img1 = new ImageIcon("E:\\Web\\Java\\JavaGUI\\JavaGUI\\img1.jpeg");
+        ImageIcon img1 = new ImageIcon("E:\\Web\\Java\\JavaGUI\\JavaGUI\\thumb.jpg");
 
         JLabel label = new JLabel();
         label.setText("HEY DO YOU EVEN CODE ?");//adds text automatically aligns text right And image left
