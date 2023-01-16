@@ -29,7 +29,7 @@ public class Labels {
         label.setBorder(border);
 
         //Label Alignment
-        label.setHorizontalAlignment(JLabel.LEFT);//aligns text+ icon=Label to center x-axis
+        label.setHorizontalAlignment(JLabel.LEFT);//alig ns text+ icon=Label to center x-axis
         label.setVerticalAlignment(JLabel.BOTTOM);//aligns text+icon=Label to center y-axis
 
         //LABEL SIZE
