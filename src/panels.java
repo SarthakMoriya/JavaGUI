@@ -14,7 +14,7 @@ public class panels {
         JLabel label2=new JLabel();
         label2.setText("LABEL 1");
         label2.setIcon(image);
-        label2.setBounds(100,100,147,170);
+        label2.setBounds(0,0,100,100);
         label2.setHorizontalAlignment(JLabel.RIGHT);
         label2.setVerticalAlignment(JLabel.TOP);
 
