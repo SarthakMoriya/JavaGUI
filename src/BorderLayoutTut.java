@@ -72,3 +72,4 @@ public class BorderLayoutTut {
 
 //SO border layout are simply containers to contain panels for this we just
 // need to set parent's layout to borderlayout();
+//By default frames use borderLayout()
