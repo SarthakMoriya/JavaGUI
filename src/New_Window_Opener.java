@@ -11,6 +11,7 @@ public class New_Window_Opener {
 
         frame.add(p1);
         //yyo
+        //yooyoo
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(null);
         frame.setSize(500, 500);
