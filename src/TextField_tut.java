@@ -27,6 +27,7 @@ public class TextField_tut {
         frame.pack();
         frame.setLayout(new FlowLayout(FlowLayout.LEADING));
         frame.setVisible(true);
+//        frame.setVisible(true);
 
     }
 
